@@ -1,26 +1,22 @@
-## BlackRoad OS
+# BlackRoad OS
 
-AI that remembers you. One API key. Every model. Persistent memory.
+**Build anything. Remember everything. The OS for AI orchestration.**
 
-**Solo founder. 5 Raspberry Pis. 67,494 commits. 0 investors. Building in public.**
+Sovereign, browser-based operating system for AI orchestration.
 
-### Products
+## Live Products
 
-| Product | URL | What it does | Price |
-|---------|-----|-------------|-------|
-| **Homework Solver** | [tutor.blackroad.io](https://tutor.blackroad.io) | AI solves any homework question step-by-step | $1/solve |
-| **AI Gateway** | [gateway.blackroad.io](https://ai-gateway-blackroad.blackroad.workers.dev/pricing) | Claude + GPT through one API key with memory | Free / $20/mo |
-| **Search** | [search.blackroad.io](https://search.blackroad.io) | Sovereign search engine | Free |
-| **Chat** | [chat.blackroad.io](https://chat.blackroad.io) | Talk to 18 AI agents | Free |
-| **Ops** | [ops.blackroad.io](https://ops.blackroad.io) | Company management dashboard | Internal |
+| Product | URL |
+|---------|-----|
+| Dashboard | [app.blackroad.io](https://app.blackroad.io) |
+| AI Chat | [chat.blackroad.io](https://chat.blackroad.io) |
+| Search | [search.blackroad.io](https://search.blackroad.io) |
+| Tutor | [tutor.blackroad.io](https://tutor.blackroad.io) |
+| Social | [social.blackroad.io](https://social.blackroad.io) |
+| Video | [video.blackroad.io](https://video.blackroad.io) |
+| Canvas | [canvas.blackroad.io](https://canvas.blackroad.io) |
+| Radio | [radio.blackroad.io](https://radio.blackroad.io) |
 
-### Honest Numbers
+7-node fleet. 32 Ollama models. 26 TOPS Hailo-8. 496 Workers. 37 orgs. 20 domains.
 
-- **Revenue**: $0 (pre-revenue)
-- **Users**: 0 real users (yet)
-- **Infrastructure**: 5 Raspberry Pis + 2 cloud servers, 52 TOPS AI compute
-- **Code**: 2,830 repos, 498 Cloudflare Workers, 20 domains
-- **Cost**: ~$53/month
-- **Company**: BlackRoad OS, Inc. — Delaware C-Corp, EIN 41-2663817, founded Nov 2025
-
-[blackroad.io](https://blackroad.io) | [Metrics](https://blackroad.io/metrics) | [Legal](https://blackroad.io/legal) | [Privacy](https://blackroad.io/privacy)
+BlackRoad OS, Inc. — Delaware C-Corp, November 2025. Alexa Louise Amundson, Founder.
